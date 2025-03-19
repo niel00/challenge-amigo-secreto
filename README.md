@@ -13,7 +13,7 @@
 </ol>
 
 <h2>Captura de tela:</h2>
-<img src="https://i.postimg.cc/5t9p4Fzf/Captura-de-tela-2025-03-18-220627.png" alt="Imagem do projeto">
+<img src="https://i.postimg.cc/RCPm4cnZ/img.png" alt="Imagem do projeto">
 <h2>Funcionalidades</h2>
 
 <ul>
